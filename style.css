@@ -31,3 +31,7 @@ body{
     font-size: 18px;
     transition: 0.8s;
 }
+
+.container li .fas{
+    color: #aa00ff;
+}

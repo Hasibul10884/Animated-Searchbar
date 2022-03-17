@@ -20,6 +20,7 @@ body{
 
 .container:hover input{
     width: 350px;
+    cursor: pointer;
 }
 
 .container input{
@@ -32,6 +33,6 @@ body{
     transition: 0.8s;
 }
 
-.container li .fas{
+.container a li .fas{
     color: #aa00ff;
 }
